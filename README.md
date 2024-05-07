@@ -1,2 +1,2 @@
 # BMI-Calculator
-BMI calculator using HTML, CSS and JS
+BMI calculator to practice HTML, CSS and JS, inspired by a YouTube video.
